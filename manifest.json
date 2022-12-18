@@ -1,0 +1,11 @@
+{
+  "name":"Twitter Scraper",
+  "version":"0.1",
+  "manifest_version":3,
+  "action":
+    {
+      "default_icon":"logo.png",
+      "default_popup":"popup.html"
+    },
+  "permissions":["activeTab","scripting"]
+}
